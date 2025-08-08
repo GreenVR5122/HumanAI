@@ -1,1 +1,19 @@
+{
+  "name": "minecraft-humanlike-bot",
+  "version": "1.0.0",
+  "description": "A human-like Minecraft survival bot using mineflayer",
+  "main": "humanLikeBot.js",
+  "scripts": {
+    "start": "node humanLikeBot.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.19.0",
+    "mineflayer-pathfinder": "^1.11.0",
+    "mineflayer-collectblock": "^1.3.0",
+    "mineflayer-tool": "^1.3.0",
+    "vec3": "^1.0.0"
+  }
+}
 
